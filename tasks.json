@@ -1,0 +1,16 @@
+[
+    {
+        "name": "finish assignments",
+        "priority": "low",
+        "status": "unfinished",
+        "date": null,
+        "category": "Not defined"
+    },
+    {
+        "name": "call collegue",
+        "priority": "high",
+        "status": "unfinished",
+        "date": null,
+        "category": "personal"
+    }
+]
